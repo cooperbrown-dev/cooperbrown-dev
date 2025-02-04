@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cooper-benson-brown
-- 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning HTML, CSS, Python, Cybersecurity, Linux, SQL
+- 👀 I’m interested in learning IT fundamentals, cybersecurity and how to code!
+- 🌱 I’m currently studying for the CompTIA A+ Certification and HTML/CSS
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: cooper.benson.brown@gmail.com
 
