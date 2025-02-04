@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cooper-Brown-Omaha
+- 👋 Hi, I’m @Cooper-Benson-Brown
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning HTML, CSS, Python, Cybersecurity, Linux, SQL
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: cooper.brown.omaha@gmail.com
+- 📫 How to reach me: cooper.benson.brown@gmail.com
 
 <!---
 Cooper-Brown-Omaha/Cooper-Brown-Omaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
