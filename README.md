@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: cooperbrown.dev@gmail.com or iamcooperbrown on discord
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cooperbrown-dev&theme=github-dark-blue" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=cooperbrown-dev&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 <!---
