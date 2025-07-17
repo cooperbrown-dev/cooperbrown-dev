@@ -3,8 +3,9 @@
 - 🌱 I’m currently going through the 100Devs online bootcamp learning HTML, CSS and JavaScript!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: cooperbrown.dev@gmail.com or iamcooperbrown on discord
-
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cooperbrown-dev&theme=default)
+</p>
 
 <!---
 Cooper-Brown-Omaha/Cooper-Brown-Omaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
