@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: cooperbrown.dev@gmail.com or iamcooperbrown on discord
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/cooperbrown-dev)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?cooperbrown-dev&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cooperbrown-dev&theme=default)
 
 <!---
 Cooper-Brown-Omaha/Cooper-Brown-Omaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
