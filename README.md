@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @cooperbrown-dev
-- 👀 I’m interested in learning full stack web development!
-- 🌱 I’m currently going through the 100Devs online bootcamp learning HTML, CSS and JavaScript!
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m a web developer!
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: cooperbrown.dev@gmail.com or iamcooperbrown on discord
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=cooperbrown-dev&theme=github-dark-blue" alt="GitHub Streak" />
